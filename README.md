@@ -6,5 +6,5 @@ Template Name    : Fruitables - Vegetable Website Template
 
   =>  Template Author  : HTML Codex
 
-  =>  Author Website   : https://htmlcod
+  =>  Author Website   : https://htmlcodex.com
   
